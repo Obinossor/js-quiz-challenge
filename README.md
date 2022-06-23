@@ -28,4 +28,4 @@ https://obinossor.github.io/js-quiz-challenge/
 
 Mock UP
 
-![Image](Assets/image.png)
+![](Assets/image.png)
