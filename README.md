@@ -28,3 +28,4 @@ https://obinossor.github.io/js-quiz-challenge/
 
 Mock UP
 
+![image](https://user-images.githubusercontent.com/100929008/175242978-8f7fe10e-3b8c-490a-a3c3-a9a6df938759.png)
