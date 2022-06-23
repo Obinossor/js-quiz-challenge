@@ -29,3 +29,5 @@ https://obinossor.github.io/js-quiz-challenge/
 Mock UP
 
 ![](Assets/image.png)
+
+Author: Tarik Mazumder
